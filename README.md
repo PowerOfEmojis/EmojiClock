@@ -1,1 +1,1 @@
-![Screencast](/Screencasts/emojiclock.gif)
+![Screencast](/Screencasts/emojiclock-300px.gif)
